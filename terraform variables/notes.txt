@@ -1,0 +1,8 @@
+Repeated static values can create more work in the future.
+
+replacing the static value with a variable helps in making just one change to ensure all the variables 
+are updated with a new static value. 
+
+
+central source
+var.source will store all the static values that the code can reference in run time. 
