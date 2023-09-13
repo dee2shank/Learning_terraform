@@ -6,3 +6,7 @@ are updated with a new static value.
 
 central source
 var.source will store all the static values that the code can reference in run time. 
+file name should be variables.tf
+
+
+
